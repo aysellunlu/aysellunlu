@@ -3,9 +3,12 @@
 
  <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" alt="Computer man" style="width:400px;height:200px;">
   <p>
-    Im Electronics & Communication Engineer. <br/> I have experience 
-    Embbedded System (Hardware & Software) Development, 
-    Frontend Development and Graphic Design.
+    Im Electronics & Communication Engineer. <br/> 
+    <b>I have experience :</b>
+    <br/>
+    🕯 Embbedded System (Hardware & Software) Development, <br/>
+    🕯 Frontend Development <br/>
+    🕯 Graphic/UI/UX Design <br/>
     I will try to actively use Github.
    <br/>
    Projects that are important to me are private.
