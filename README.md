@@ -3,14 +3,21 @@
 
  <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" alt="Computer man" style="width:400px;height:200px;">
   <p>
-    Im Electronics & Communication Engineer. I have experience 
+    Im Electronics & Communication Engineer. <br/> I have experience 
     Embbedded System (Hardware & Software) Development, 
     Frontend Development and Graphic Design.
     I will try to actively use Github.
+   <br/>
+   Projects that are important to me are private.
   <br/>
   <br/>
-  <b>✍🏼 TOOLS (usually) : </b>
-  Frontend Development, Mobile App Development, React JS, React Native, JavaScript, Html, CSS, SCSS, Bootstrap
+  <b> TOOLS (usually) : </b><br/>
+  🪄 Frontend Development, Mobile App Development <br/>
+  🪄 React JS, React Native <br/>
+  🪄 JavaScript, Html, CSS <br/>
+  🪄 SCSS, Bootstrap <br/>
+  🪄 Redux,RestAPI <br/>
+  🪄 Figma, Adobe XD <br/>
   
   </p>
 <html>
