@@ -1,5 +1,5 @@
 
-# Welcome to my Github profile 💻
+# Welcome to my GitHub profile 👩🏼‍💻
 
  <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" alt="Computer man" style="width:400px;height:200px;">
   <p>
@@ -9,8 +9,8 @@
     I will try to actively use Github.
   <br/>
   <br/>
-  <b>TOOLS (usually) : </b>
-  Frontend Development, React JS, React Native, JavaScript, Html, CSS, SCSS, Bootstrap
+  <b>✍🏼 TOOLS (usually) : </b>
+  Frontend Development, Mobile App Development, React JS, React Native, JavaScript, Html, CSS, SCSS, Bootstrap
   
   </p>
 <html>
