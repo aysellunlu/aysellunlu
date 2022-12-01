@@ -8,7 +8,7 @@
     <br/>
     ✨ Embbedded System (Hardware & Software) Development, <br/>
     ✨ Frontend Development <br/>
-    ✨ Graphic / UI / UX Design <br/>
+    ✨ Graphic / UI Design <br/>
     I will try to actively use Github.
    <br/>
    Projects that are important to me are private.
