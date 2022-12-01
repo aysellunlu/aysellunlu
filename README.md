@@ -1,7 +1,9 @@
 
 # Welcome to my GitHub profile 👩🏼‍💻
 
- <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" alt="Computer man" style="width:400px;height:175px;">
+ <img src="https://miro.medium.com/max/960/1*eKQmtqPla2M7ozIuUZL83g.gif" alt="Computer man" style="width:400px;height:150px;">
+ 
+ 
   <p>
     Im Electronics & Communication Engineer. <br/> 
     <b>I have experience :</b>
