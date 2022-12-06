@@ -5,7 +5,7 @@
  
  
   <p>
-    Im Electronics & Communication Engineer. <br/> 
+    Im Electronics & Communication Engineer, Frontend Developer <br/> 
     <b>I have experience :</b>
     <br/>
     ✨ Embbedded System (Hardware & Software) Development, <br/>
