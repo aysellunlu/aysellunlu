@@ -21,7 +21,7 @@
   🪄 React JS, React Native <br/>
   🪄 JavaScript, Html, CSS <br/>
   🪄 SCSS, Bootstrap <br/>
-  🪄 Redux,RestAPI <br/>
+  🪄 Redux, RestAPI <br/>
   🪄 Figma, Adobe XD <br/>
   
   </p>
