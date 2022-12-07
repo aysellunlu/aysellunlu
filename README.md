@@ -36,6 +36,7 @@
    <br/>
    my Behance Profile : 
   <b>https://www.behance.net/ayselnl </b>
+  <br/>
   my Medium Profile : 
   <b>https://medium.com/@aysell.unlu </b>
 </p
