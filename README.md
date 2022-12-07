@@ -36,6 +36,8 @@
    <br/>
    my Behance Profile : 
   <b>https://www.behance.net/ayselnl </b>
+  my Medium Profile : 
+  <b>https://medium.com/@aysell.unlu </b>
 </p
 
 <img src="programming.gif" alt="Computer man" style="width:48px;height:48px;">
