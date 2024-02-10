@@ -1,6 +1,6 @@
 
 # Welcome to my GitHub profile 👩🏼‍💻
-You can visit my company's website -> https://taudigi.com/
+<h1> You can visit my company's website -> https://taudigi.com/ </h1>
 
  <img src="https://miro.medium.com/max/960/1*eKQmtqPla2M7ozIuUZL83g.gif" alt="Computer man" style="width:400px;height:150px;">
  
