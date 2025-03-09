@@ -30,7 +30,7 @@
 <body>
 
 <p>
-  <b style="#00000">You can view 👀</b>
+  <b style="color:red">You can view 👀</b>
   <br/>
   my LinkedIn Profile : 
   <b>https://www.linkedin.com/in/ayselunlu </b>
