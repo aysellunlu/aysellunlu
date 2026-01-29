@@ -1,21 +1,31 @@
-[<div align="center">
+<div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="420" />
 
 # 👋 Hi, I'm Aysel Ünlü  
 
 ### Frontend Developer · React Specialist · UI/UX Focused
 
-🚀 I build **clean**, **scalable** and **production-ready** web applications  
-🎯 From real business problems to real shipped products
+🚀 I build **clean**, **scalable** and **production-ready** web interfaces  
+🎯 Real products · Real users · Real business needs
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=600&lines=React+Developer;TypeScript+Enthusiast;UI%2FUX+Driven+Engineer;Building+Real+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=React+Developer;TypeScript+Focused;UI%2FUX+Driven+Engineer;Building+Production+UIs" />
 
 </div>
-](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
 
+---
+
+## 🔥 About Me
+
+```ts
+const aysel = {
+  role: "Frontend Developer",
+  core: ["React", "TypeScript", "UI/UX"],
+  approach: "Product & user focused",
+  strength: "Clean architecture + strong visual hierarchy"
+};
 
 
 
