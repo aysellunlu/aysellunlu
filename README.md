@@ -1,4 +1,25 @@
+<div align="center">
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+
+# 👋 Hi, I'm Aysel Ünlü  
+
+### Frontend Developer · React Specialist · UI/UX Focused
+
+🚀 I build **clean**, **scalable** and **production-ready** web applications  
+🎯 From real business problems to real shipped products
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=600&lines=React+Developer;TypeScript+Enthusiast;UI%2FUX+Driven+Engineer;Building+Real+Products" />
+
+</div>
+
+
+
+
+
+<!--
 # Welcome to my GitHub profile 👩🏼‍💻
 <h2> You can visit my company's website -> 💻 https://taudigi.com/ </h2>
 
