@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 
@@ -14,7 +14,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=600&lines=React+Developer;TypeScript+Enthusiast;UI%2FUX+Driven+Engineer;Building+Real+Products" />
 
 </div>
-
+](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
 
 
 
