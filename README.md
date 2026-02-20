@@ -4,7 +4,7 @@
 -->
 # 👋 Hi, I'm Aysel Ünlü  
 
-### Frontend Developer · React Specialist · UI/UX Focused
+### Developer · 
 
 🚀 I design and build **clean, scalable, production-ready interfaces**  
 🎯 Frontend that serves real users and real business needs
