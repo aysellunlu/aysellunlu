@@ -6,8 +6,8 @@
 
 ### · Developer · 
 
-🚀 I design and build **clean, scalable, production-ready interfaces**  
-🎯 Frontend that serves real users and real business needs
+- Engineering high-performance, type-safe, and production-ready digital products.
+- Transforming complex business needs into seamless user experiences and AI-driven solutions.
 
 <br/>
 
