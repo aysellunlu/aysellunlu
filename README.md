@@ -4,7 +4,7 @@
 -->
 # 👋 Hi, I'm Aysel Ünlü  
 
-### Developer · 
+### · Developer · 
 
 🚀 I design and build **clean, scalable, production-ready interfaces**  
 🎯 Frontend that serves real users and real business needs
