@@ -2,7 +2,7 @@
 <!--
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BqZjY2b2Y1Z2Z5Y2p0aGx1Y2x0bDJlZzR2ZWN6b2Y5eWZqZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7qE1YN7aBOFPRw8E/giphy.gif" width="420" />
 -->
-# 👋 Hi, I'm Aysel Ünlü  
+👋 Hi, I'm Aysel 
 
 ### · Developer · 
 
