@@ -10,9 +10,9 @@
 - Transforming complex business needs into seamless user experiences and AI-driven solutions.
 
 <br/>
-
+<!--
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+Specialist;TypeScript+Focused;UI%2FUX+Driven+Engineer" />
-
+-->
 </div>
 
 
