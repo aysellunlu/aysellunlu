@@ -6,8 +6,8 @@
 
 ### · Developer · 
 
-- Engineering high-performance, type-safe, and production-ready digital products.
-- Transforming complex business needs into seamless user experiences and AI-driven solutions.
+Engineering high-performance, type-safe, and production-ready digital products.
+Transforming complex business needs into seamless user experiences and AI-driven solutions.
 
 <br/>
 <!--
